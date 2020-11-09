@@ -723,4 +723,11 @@ ul {
     }
 }
 
-/*# sourceMappingURL=style.min.css.map */
+.section__gradient {
+    position: fixed;
+    width: 100%;
+    z-index: 33;
+    height: 40vh !important;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) -29.42%, #fff 100%);
+    bottom: 0;
+}
