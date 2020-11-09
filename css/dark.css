@@ -11,3 +11,6 @@ body {
         background-color: #fff !important;
     }
 }
+.section__gradient {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) -29.42%,#fff 100%);
+}
