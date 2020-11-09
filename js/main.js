@@ -18,7 +18,6 @@ $(document).ready(function () {
     const workSlider = $('#workSlider');
 
     workSlider.slick({
-        adaptiveHeight: true,
         slidesToShow: 3,
         infinite: false,
 
